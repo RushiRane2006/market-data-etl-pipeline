@@ -113,8 +113,8 @@ ALERT: MSFT moved down 1.15% on 2026-09-08 (close: 493.95)
 === Pipeline run finished: 2026-09-09 12:07:01 ===
 ```
 
-![Alt Text](images\alerts.png)
-![Alt Text](images\price_data.png)
+![Alt Text](images/alerts.png)
+![Alt Text](images/price_data.png)
 
 ## Possible Future Improvements
 
